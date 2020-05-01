@@ -1,0 +1,10 @@
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\Buoi5_18DH110884_NguyenChiMy\bin\Debug\Buoi5_18DH110884_NguyenChiMy.exe.config
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\Buoi5_18DH110884_NguyenChiMy\bin\Debug\Buoi5_18DH110884_NguyenChiMy.exe
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\Buoi5_18DH110884_NguyenChiMy\bin\Debug\Buoi5_18DH110884_NguyenChiMy.pdb
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\Buoi5_18DH110884_NguyenChiMy\obj\Debug\Buoi5_18DH110884_NguyenChiMy.csprojAssemblyReference.cache
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\Buoi5_18DH110884_NguyenChiMy\obj\Debug\Buoi5_18DH110884_NguyenChiMy.bai1.resources
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\Buoi5_18DH110884_NguyenChiMy\obj\Debug\Buoi5_18DH110884_NguyenChiMy.Properties.Resources.resources
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\Buoi5_18DH110884_NguyenChiMy\obj\Debug\Buoi5_18DH110884_NguyenChiMy.csproj.GenerateResource.cache
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\Buoi5_18DH110884_NguyenChiMy\obj\Debug\Buoi5_18DH110884_NguyenChiMy.csproj.CoreCompileInputs.cache
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\Buoi5_18DH110884_NguyenChiMy\obj\Debug\Buoi5_18DH110884_NguyenChiMy.exe
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\Buoi5_18DH110884_NguyenChiMy\obj\Debug\Buoi5_18DH110884_NguyenChiMy.pdb
