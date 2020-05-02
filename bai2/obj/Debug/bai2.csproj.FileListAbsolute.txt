@@ -1,0 +1,9 @@
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\bai2\bin\Debug\bai2.exe.config
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\bai2\bin\Debug\bai2.exe
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\bai2\bin\Debug\bai2.pdb
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\bai2\obj\Debug\bai2.Bai2.resources
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\bai2\obj\Debug\bai2.Properties.Resources.resources
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\bai2\obj\Debug\bai2.csproj.GenerateResource.cache
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\bai2\obj\Debug\bai2.exe
+C:\Users\BobBush\source\repos\Buoi5_18DH110884_NguyenChiMy\bai2\obj\Debug\bai2.pdb
